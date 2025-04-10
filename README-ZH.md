@@ -67,7 +67,7 @@ Tampermonkey是一个运行Overleaf-Bib-Helper等用户脚本所需的浏览器�
 1. **下载Tampermonkey**：
    - **Chrome**：[Chrome网上商店](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
    - **Firefox**：[Mozilla插件](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
-   - **Edge**：[Microsoft Edge插件](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmleipfamncoeapigifbpdccjedebe)
+   - **Edge**：[Microsoft Edge插件](https://microsoftedge.microsoft.com/addons/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/iikmkjmpaadaobahmlepeloendndfphd)
    - **Safari**：[应用商店](https://apps.apple.com/us/app/tampermonkey/id1482490089)（需要macOS）
 2. **启用Tampermonkey**：
    - 安装完成后，点击浏览器工具栏中的Tampermonkey图标，确保其已启用。
