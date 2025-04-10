@@ -12,7 +12,7 @@
     <img alt="Install from Greasy Fork" src="https://img.shields.io/badge/Install-Greasy_Fork-blue" />
   </a>
   <a href="https://github.com/Arvid-pku/Overleaf-Bib-Helper/releases">
-    <img alt="Version" src="https://img.shields.io/badge/Version-1.1-blue" />
+    <img alt="Version" src="https://img.shields.io/badge/Version-1.2-blue" />
   </a>
   <a href="https://github.com/Arvid-pku/Overleaf-Bib-Helper/blob/main/LICENSE.md">
     <img alt="License" src="https://img.shields.io/badge/License-MIT-blue" />
@@ -151,6 +151,7 @@ You can install the script in one of two ways:
 While Overleaf-Bib-Helper aims to provide a seamless experience, please note that it relies on external services (DBLP and Google Scholar) which may change their APIs or require user verification (e.g., CAPTCHA). Use this tool at your own discretion and always verify retrieved BibTeX entries before including them in your documents.
 
 ## Changelog
+- **2025-04-10**: Added support for cn.overleaf.com and cn.overleaf.com domains (v1.2).
 - **2025-04-09**: Initial release with basic functionality for DBLP and Google Scholar (v1.1).
 
 ## License

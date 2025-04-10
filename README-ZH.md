@@ -12,7 +12,7 @@
     <img alt="从Greasy Fork安装" src="https://img.shields.io/badge/Install-Greasy_Fork-blue" />
   </a>
   <a href="https://github.com/Arvid-pku/Overleaf-Bib-Helper/releases">
-    <img alt="版本" src="https://img.shields.io/badge/Version-1.1-blue" />
+    <img alt="版本" src="https://img.shields.io/badge/Version-1.2-blue" />
   </a>
   <a href="https://github.com/Arvid-pku/Overleaf-Bib-Helper/blob/main/LICENSE.md">
     <img alt="许可证" src="https://img.shields.io/badge/License-MIT-blue" />
@@ -147,6 +147,7 @@ Tampermonkey是一个运行Overleaf-Bib-Helper等用户脚本所需的浏览器�
 虽然Overleaf-Bib-Helper旨在提供无缝体验，但请注意，它依赖于外部服务（DBLP和Google Scholar），这些服务的API可能会更改或需要用户验证（例如验证码）。请自行决定使用此工具，并始终在将检索到的BibTeX条目纳入文档前进行验证。
 
 ## 更新日志
+- **2025-04-10**：增加了对 cn.overleaf.com 和 cn.overleaf.com 域的支持（v1.2）。
 - **2025-04-09**：初始版本，支持DBLP和Google Scholar的基本功能（v1.1）。
 
 ## 许可证
